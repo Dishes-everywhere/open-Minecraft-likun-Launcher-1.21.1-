@@ -1,0 +1,2 @@
+﻿  open Minecraft.cpp
+LINK : fatal error LNK1168: 无法打开 C:\Users\Lenovo\OneDrive\Desktop\open Minecraft\x64\Debug\open Minecraft.exe 进行写入
